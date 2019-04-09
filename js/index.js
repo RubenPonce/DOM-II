@@ -95,6 +95,7 @@ const originalResize = evt => {
 };
 
 
+
 (() => {
   resizeTaskId = null;
 
